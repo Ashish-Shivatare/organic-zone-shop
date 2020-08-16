@@ -12,6 +12,7 @@ import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
   styleUrls: ["./bs-navbar.component.css"],
 })
 export class BsNavbarComponent implements OnInit {
+  navbarCollapsed = true;
   faShoppingCart = faShoppingCart;
   faLeaf = faLeaf;
   appUser: AppUser;

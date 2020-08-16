@@ -1,0 +1,7 @@
+.dropdown-toggle {
+  cursor: pointer;
+}
+.navbar {
+  margin-bottom: 20px;
+  border-bottom: 1px solid darkgray;
+}

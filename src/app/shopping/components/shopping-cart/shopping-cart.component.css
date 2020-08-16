@@ -1,0 +1,19 @@
+.thumbnail {
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  background-size: cover;
+}
+
+.text-center {
+  padding: 10px;
+}
+
+.row.col-10 {
+  padding: 10px;
+}
+
+p {
+  border: 1px solid darkgrey;
+  padding: 10px;
+}
